@@ -3,7 +3,7 @@ class Solution:
         l,r = 0,len(height)-1
         res=0
         while r>l:
-            a=(r-l) * min(height[l],height[r]) #area of a rec. l*w
+            a=(r-l) * min(height[l],height[r]) #area of a rec. l=w
             res=max(res, a)
             if height[r]>height[l]:
                 l+=1
