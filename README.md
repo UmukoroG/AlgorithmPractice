@@ -18,6 +18,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -26,4 +27,16 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0143-reorder-list) |
+## Array
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
