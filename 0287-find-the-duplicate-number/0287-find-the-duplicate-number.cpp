@@ -3,10 +3,15 @@ public:
     int findDuplicate(vector<int>& nums) {
         sort(nums.begin(), nums.end());
 
-        for(int i=0; i<=nums.size(); i++){
-            if(nums[i]==nums[i+1]){
-                return nums[i];
+        int l=0;
+        int r=1;
+
+        while(l<r && r<=nums.size()){
+            if(nums[l]==nums[r]){
+                return nums[l];
             }
+            l++;
+            r++;
         }
         return -1;
     }
