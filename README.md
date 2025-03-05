@@ -10,6 +10,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0143-reorder-list) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0143-reorder-list) |
 ## Array
 |  |
@@ -39,4 +41,8 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
