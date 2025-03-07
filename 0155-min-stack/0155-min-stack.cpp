@@ -1,9 +1,12 @@
 class MinStack {
 public:
-    vector<int> st = {};
-    vector<int> minSt = {};
+    vector<int> st;
+    vector<int> minSt;
 
-    MinStack() {}
+    MinStack() {
+        st={};
+        minSt = {};
+    }
     
     void push(int val) {
         st.push_back(val);
@@ -19,14 +22,14 @@ public:
         }
         //if popping the current min, remove it from the minSt
         if(st.back()==minSt.back()) minSt.pop_back();
-        st.pop_back();
+        st.pop_back();//removes the last element
     }
     
     int top() {
         if(st.empty()){
             return -1;
         }
-        return st.back();//to access last position in a vector; use vector.back();
+        return st.back();//to access the last element in the vector
     }
     
     int getMin() {
