@@ -24,6 +24,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0155-min-stack) |
 ## Recursion
 |  |
 | ------- |
@@ -45,4 +46,8 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0002-add-two-numbers) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
