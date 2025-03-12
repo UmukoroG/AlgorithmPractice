@@ -25,6 +25,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | ------- |
 | [0143-reorder-list](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0287-find-the-duplicate-number) |
+| [0739-daily-temperatures](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,4 +52,8 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
