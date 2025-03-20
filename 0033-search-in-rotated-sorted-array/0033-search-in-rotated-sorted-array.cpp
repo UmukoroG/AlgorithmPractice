@@ -22,7 +22,7 @@ public:
                     l=mid+1;
                 }
                 else{
-                    l=mid-1;
+                    r=mid-1;
                 }
 
             }
