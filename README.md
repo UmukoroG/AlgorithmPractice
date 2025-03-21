@@ -37,6 +37,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0287-find-the-duplicate-number) |
 | [0739-daily-temperatures](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0883-car-fleet) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
