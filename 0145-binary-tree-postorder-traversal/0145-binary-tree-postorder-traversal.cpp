@@ -15,18 +15,9 @@ public:
     vector<int> postorderTraversal(TreeNode* root) {
         if(!root) return {};
 
-        postTraversal(root);
-
-        return result;
-
-    }
-private:
-    void postTraversal(TreeNode* root){
-        if(!root) return;
-
-        postTraversal(root->left);
-        postTraversal(root->right);
+        postorderTraversal(root->left);
+        postorderTraversal(root->right);
         result.push_back(root->val);
-
+        return result;
     }
 };
