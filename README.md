@@ -23,6 +23,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0739-daily-temperatures) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0226-invert-binary-tree) |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0226-invert-binary-tree) |
@@ -110,6 +113,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0226-invert-binary-tree) |
