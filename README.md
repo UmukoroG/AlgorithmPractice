@@ -6,6 +6,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0138-copy-list-with-random-pointer) |
 ## Linked List
 |  |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0074-search-a-2d-matrix) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0287-find-the-duplicate-number) |
 | [0739-daily-temperatures](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0739-daily-temperatures) |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0100-same-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -138,6 +141,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0100-same-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -160,4 +164,8 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
