@@ -46,6 +46,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0287-find-the-duplicate-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0287-find-the-duplicate-number) |
 | [0739-daily-temperatures](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0883-car-fleet) |
+| [1127-last-stone-weight](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1127-last-stone-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,4 +173,8 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
