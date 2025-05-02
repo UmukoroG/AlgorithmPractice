@@ -8,6 +8,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0138-copy-list-with-random-pointer) |
+| [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
 ## Linked List
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0287-find-the-duplicate-number) |
+| [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1014-k-closest-points-to-origin) |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1014-k-closest-points-to-origin) |
 ## Matrix
@@ -188,6 +191,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1127-last-stone-weight) |
@@ -204,4 +208,12 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0789-kth-largest-element-in-a-stream) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
