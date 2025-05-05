@@ -42,6 +42,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0078-subsets) |
 ## Sorting
 |  |
 | ------- |
