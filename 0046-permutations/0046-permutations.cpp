@@ -24,7 +24,6 @@ private:
             dfs(nums, res, perm, used);
 
             perm.pop_back();
-            dfs(nums, res, perm, used);
             used[i]=false;
         }
     }
