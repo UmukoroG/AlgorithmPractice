@@ -19,7 +19,7 @@ private:
             return;
         }
 
-        combn.push_back(candidates[i]); //include i
+        combn.push_back(candidates[i]); //include i, repeating/reusing combn
         dfs(candidates, res, combn, target, i);
 
         combn.pop_back();//don't include i
