@@ -41,6 +41,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0078-subsets) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0078-subsets) |
 ## Sorting
