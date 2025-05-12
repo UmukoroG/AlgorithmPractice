@@ -46,6 +46,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0046-permutations](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0040-combination-sum-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0090-subsets-ii) |
 ## Sorting
 |  |
@@ -112,6 +115,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0079-word-search) |
 ## Tree
 |  |
 | ------- |
@@ -135,6 +139,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0100-same-tree) |
