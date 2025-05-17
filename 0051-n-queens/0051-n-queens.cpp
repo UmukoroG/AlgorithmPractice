@@ -23,12 +23,15 @@ public:
     }
 
     bool isSafe(int r, int c, vector<string>& board){
+        //check same column
         for(int i=r-1; i>=0; i--){
             if(board[i][c]=='Q') return false;
         }
+        //check upper-left diagonal
         for(int i=r-1, j = c-1; i>=0 && j>=0; i--, j--){
             if(board[i][j]=='Q') return false;
         }
+        //check upper-right diagonal
         for(int i=r-1, j=c+1; i>=0 && j<board.size(); i--, j++){
             if(board[i][j]=='Q') return false;
         }
