@@ -9,6 +9,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0138-copy-list-with-random-pointer) |
+| [0208-implement-trie-prefix-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
 ## Linked List
 |  |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Monotonic Stack
 |  |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0022-generate-parentheses](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0131-palindrome-partitioning) |
+| [0208-implement-trie-prefix-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0208-implement-trie-prefix-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -241,4 +244,8 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
