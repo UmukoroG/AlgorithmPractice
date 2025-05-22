@@ -84,6 +84,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | ------- |
 | [0155-min-stack](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Monotonic Stack
 |  |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0079-word-search](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0212-word-search-ii) |
 ## Dynamic Programming
 |  |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0144-binary-tree-preorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0199-binary-tree-right-side-view) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -252,5 +255,6 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
