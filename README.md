@@ -53,6 +53,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0090-subsets-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0212-word-search-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0287-find-the-duplicate-number) |
 | [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0079-word-search](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0212-word-search-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0079-word-search](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0212-word-search-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -127,6 +130,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0212-word-search-ii) |
 ## Tree
 |  |
 | ------- |
@@ -248,4 +252,5 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
