@@ -53,6 +53,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0090-subsets-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0287-find-the-duplicate-number) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0212-word-search-ii) |
 ## Tree
 |  |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0144-binary-tree-preorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -179,6 +182,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0102-binary-tree-level-order-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0226-invert-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -257,4 +261,8 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0208-implement-trie-prefix-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0212-word-search-ii) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
