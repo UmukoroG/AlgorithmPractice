@@ -63,6 +63,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0739-daily-temperatures](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1127-last-stone-weight) |
 ## Binary Search
 |  |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0200-number-of-islands](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0212-word-search-ii) |
 | [0695-max-area-of-island](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1036-rotting-oranges) |
 ## Tree
 |  |
 | ------- |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0200-number-of-islands](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
