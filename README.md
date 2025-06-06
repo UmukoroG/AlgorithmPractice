@@ -179,6 +179,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0145-binary-tree-postorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0133-clone-graph](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0695-max-area-of-island) |
@@ -289,4 +291,9 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
