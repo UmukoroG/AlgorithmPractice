@@ -84,6 +84,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1014-k-closest-points-to-origin) |
 ## Design
 |  |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
@@ -304,4 +306,8 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | ------- |
 | [0207-course-schedule](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0210-course-schedule-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
