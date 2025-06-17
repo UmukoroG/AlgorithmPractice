@@ -63,6 +63,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0747-min-cost-climbing-stairs) |
 | [0883-car-fleet](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1036-rotting-oranges) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0022-generate-parentheses](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0131-palindrome-partitioning) |
+| [0747-min-cost-climbing-stairs](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0747-min-cost-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
