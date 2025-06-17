@@ -4,9 +4,8 @@ public:
         int n=cost.size();
         vector<int> dp(n);
 
-        if(n<2){
-            return min(dp[0],dp[1]);
-        }
+        if(n==0) return 0;
+        if(n==1) return cost[0];
 
         dp[0]=cost[0];
         dp[1]=cost[1];
