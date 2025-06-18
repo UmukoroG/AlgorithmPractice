@@ -55,6 +55,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0022-generate-parentheses](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0747-min-cost-climbing-stairs) |
 ## Backtracking
 |  |
