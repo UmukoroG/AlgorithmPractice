@@ -26,6 +26,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0287-find-the-duplicate-number) |
+| [0647-palindromic-substrings](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0208-implement-trie-prefix-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0212-word-search-ii) |
+| [0647-palindromic-substrings](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0131-palindrome-partitioning](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0213-house-robber-ii) |
+| [0647-palindromic-substrings](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0747-min-cost-climbing-stairs) |
 ## Backtracking
 |  |
