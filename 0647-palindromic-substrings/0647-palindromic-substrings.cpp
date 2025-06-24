@@ -1,34 +1,31 @@
 class Solution {
 public:
     int countSubstrings(string s) {
-        if(s.empty()) return 0;
-
         int count=0;
         int n=s.size();
-        for(int i=0; i<n; i++){//takes 0(n3) time
-            for(int j = i; j < n; j++) {  
-                if(isPali(s.substr(i,j-i+1))){//check pali for substrings
-                    count++;
-                }
-            }
+        
+        for(int center =0; center<n; center++){
+            count+= expandAroundCenter(s, center,center); //odd length pali
+            count+= expandAroundCenter(s, center,center+1); //even length pali
+
         }
+
         return count;
         
     }
 
-    bool isPali(string s){
-        if(s.empty()) return true;
+    int expandAroundCenter(const string& s, int left, int right){
+        int n=s.size();
+        int count =0;
 
-        int l=0;
-        int r=s.size()-1;
-
-        while(l<=r){
-            if(s[l]!=s[r]){
-                return false;
-            }
-            l++;
-            r--;
+        while(left>=0 && right<n && s[left]==s[right]){
+            count++;
+            left--;
+            right++;
         }
-        return true;
+
+        return count;
     }
+
+    
 };
