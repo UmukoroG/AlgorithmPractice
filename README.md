@@ -110,6 +110,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0005-longest-palindromic-substring](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0213-house-robber-ii) |
