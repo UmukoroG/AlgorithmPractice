@@ -63,6 +63,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0213-house-robber-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0695-max-area-of-island) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0131-palindrome-partitioning](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0747-min-cost-climbing-stairs) |
 ## Backtracking
@@ -220,6 +222,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0207-course-schedule](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0695-max-area-of-island) |
