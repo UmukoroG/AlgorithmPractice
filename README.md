@@ -56,6 +56,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0090-subsets-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0130-surrounded-regions) |
+| [0152-maximum-product-subarray](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0200-number-of-islands) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0070-climbing-stairs](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0322-coin-change) |
