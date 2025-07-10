@@ -96,6 +96,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1014-k-closest-points-to-origin) |
 ## Design
@@ -129,6 +130,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0131-palindrome-partitioning) |
@@ -340,4 +342,8 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | ------- |
 | [0070-climbing-stairs](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
