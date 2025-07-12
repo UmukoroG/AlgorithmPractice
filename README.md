@@ -125,6 +125,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0211-design-add-and-search-words-data-structure](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0212-word-search-ii) |
 | [0647-palindromic-substrings](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0647-palindromic-substrings) |
+| [1250-longest-common-subsequence](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0416-partition-equal-subset-sum](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0747-min-cost-climbing-stairs) |
+| [1250-longest-common-subsequence](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
