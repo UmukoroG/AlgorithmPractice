@@ -1,18 +1,18 @@
 class Solution {
 public:
     int findTargetSumWays(vector<int>& nums, int target) {
-        return backtrack(0,0, nums, target);
-    }
+        int n = nums.size();
+        vector<unordered_map<int, int>>dp(n+1);
 
-private:
-    int backtrack(int i, int cur_sum, vector<int>& nums, int target){
-        if(i==nums.size()){
-            return 1 ? cur_sum == target : 0;
+        dp[0][0]=1;
+
+        for(int i=0; i<n; i++){
+            for(auto &p : dp[i]){
+                dp[i+1][p.first + nums[i]] += p.second;
+                dp[i+1][p.first - nums[i]] += p.second;
+            }
         }
 
-        return (
-            backtrack(i+1, cur_sum+nums[i], nums, target)+
-            backtrack(i+1, cur_sum-nums[i], nums, target)
-        );
+        return dp[n][target];
     }
 };
