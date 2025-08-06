@@ -51,6 +51,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0040-combination-sum-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0079-word-search) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0072-edit-distance) |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1014-k-closest-points-to-origin) |
