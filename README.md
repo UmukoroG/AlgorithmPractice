@@ -49,6 +49,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0033-search-in-rotated-sorted-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0053-maximum-subarray) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0062-unique-paths) |
@@ -324,6 +326,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
 ## Counting
