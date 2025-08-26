@@ -13,6 +13,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0139-word-break](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0876-hand-of-straights) |
 ## Linked List
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0695-max-area-of-island](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0747-min-cost-climbing-stairs) |
+| [0876-hand-of-straights](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1036-rotting-oranges) |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1014-k-closest-points-to-origin) |
 ## Matrix
@@ -329,6 +332,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0045-jump-game-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0876-hand-of-straights) |
 ## Counting
 |  |
 | ------- |
