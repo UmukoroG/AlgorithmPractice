@@ -86,6 +86,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [1014-k-closest-points-to-origin](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1127-last-stone-weight) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/UmukoroG/AlgorithmPractice/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Binary Search
 |  |
 | ------- |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0055-jump-game](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0876-hand-of-straights) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/UmukoroG/AlgorithmPractice/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Counting
 |  |
 | ------- |
