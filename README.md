@@ -77,6 +77,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0322-coin-change](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0647-palindromic-substrings) |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | ------- |
 | [0056-merge-intervals](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0883-car-fleet) |
@@ -335,6 +338,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | ------- |
 | [0045-jump-game-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0876-hand-of-straights) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/UmukoroG/AlgorithmPractice/tree/master/2026-merge-triplets-to-form-target-triplet) |
