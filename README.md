@@ -109,6 +109,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0136-single-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0338-counting-bits) |
 ## Math
 |  |
 | ------- |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0300-longest-increasing-subsequence](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0494-target-sum) |
