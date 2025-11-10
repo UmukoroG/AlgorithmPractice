@@ -110,12 +110,14 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0191-number-of-1-bits](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0371-sum-of-two-integers) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0070-climbing-stairs) |
+| [0371-sum-of-two-integers](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0371-sum-of-two-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1014-k-closest-points-to-origin) |
 ## Design
 |  |
