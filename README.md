@@ -44,6 +44,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0143-reorder-list) |
 ## Array
 |  |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0070-climbing-stairs) |
