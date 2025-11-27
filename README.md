@@ -15,6 +15,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0208-implement-trie-prefix-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0876-hand-of-straights) |
 ## Linked List
@@ -86,6 +87,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0300-longest-increasing-subsequence](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0435-non-overlapping-intervals) |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0215-kth-largest-element-in-an-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0876-hand-of-straights) |
@@ -340,11 +343,13 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0190-reverse-bits](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1014-k-closest-points-to-origin) |
@@ -353,6 +358,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -375,6 +381,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
 ## Trie
 |  |
@@ -411,4 +418,8 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0062-unique-paths) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
