@@ -13,6 +13,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0139-word-break](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0876-hand-of-straights) |
 ## Linked List
@@ -155,6 +156,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0208-implement-trie-prefix-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0212-word-search-ii) |
+| [0242-valid-anagram](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/UmukoroG/AlgorithmPractice/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
@@ -207,6 +209,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0056-merge-intervals](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0876-hand-of-straights) |
