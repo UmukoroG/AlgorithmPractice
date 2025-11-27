@@ -7,6 +7,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0138-copy-list-with-random-pointer) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0045-jump-game-ii](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0055-jump-game) |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0005-longest-palindromic-substring](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0091-decode-ways) |
@@ -206,6 +209,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0217-contains-duplicate) |
