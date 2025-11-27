@@ -31,6 +31,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0005-longest-palindromic-substring](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0647-palindromic-substrings) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to refresh my data structure and algorithm know
 | [0079-word-search](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/UmukoroG/AlgorithmPractice/tree/master/0208-implement-trie-prefix-tree) |
